@@ -1,2 +1,1 @@
-# PracticumTasks
-Param Tech Practicum Tasks
+## Param Tech Practicum Tasks
