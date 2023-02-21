@@ -1,0 +1,12 @@
+E:\Nuray\MyProjects\PracticumTasks\ParamApi.Service\bin\Debug\net6.0\ParamApi.Service.deps.json
+E:\Nuray\MyProjects\PracticumTasks\ParamApi.Service\bin\Debug\net6.0\ParamApi.Service.dll
+E:\Nuray\MyProjects\PracticumTasks\ParamApi.Service\bin\Debug\net6.0\ParamApi.Service.pdb
+E:\Nuray\MyProjects\PracticumTasks\ParamApi.Service\obj\Debug\net6.0\ParamApi.Service.csproj.AssemblyReference.cache
+E:\Nuray\MyProjects\PracticumTasks\ParamApi.Service\obj\Debug\net6.0\ParamApi.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nuray\MyProjects\PracticumTasks\ParamApi.Service\obj\Debug\net6.0\ParamApi.Service.AssemblyInfoInputs.cache
+E:\Nuray\MyProjects\PracticumTasks\ParamApi.Service\obj\Debug\net6.0\ParamApi.Service.AssemblyInfo.cs
+E:\Nuray\MyProjects\PracticumTasks\ParamApi.Service\obj\Debug\net6.0\ParamApi.Service.csproj.CoreCompileInputs.cache
+E:\Nuray\MyProjects\PracticumTasks\ParamApi.Service\obj\Debug\net6.0\ParamApi.Service.dll
+E:\Nuray\MyProjects\PracticumTasks\ParamApi.Service\obj\Debug\net6.0\refint\ParamApi.Service.dll
+E:\Nuray\MyProjects\PracticumTasks\ParamApi.Service\obj\Debug\net6.0\ParamApi.Service.pdb
+E:\Nuray\MyProjects\PracticumTasks\ParamApi.Service\obj\Debug\net6.0\ref\ParamApi.Service.dll
