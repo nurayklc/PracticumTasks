@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ParamApi.Base.Model
+namespace ParamApi.Base
 {
     public class BaseModel 
     {

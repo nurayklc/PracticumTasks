@@ -21,6 +21,7 @@ namespace ParamApi.Controllers
             var accounts = await _unitOfWork.AccountRepository.GetAllAsync();
             return Ok(accounts);
         }
+
         [HttpGet("{id}")]
         public async Task<IActionResult> GetById(int id)
         {
@@ -31,6 +32,7 @@ namespace ParamApi.Controllers
             }
             return Ok(account);
         }
+        
         [HttpPost]
         public async Task<IActionResult> AddAccount(Account account)
         {
@@ -43,6 +45,7 @@ namespace ParamApi.Controllers
 
             return CreatedAtAction("GetById", new { account.Id }, account);
         }
+
         [HttpPut("{id}")]
         public async Task<IActionResult> UpdateAccount(int id, Account account)
         {

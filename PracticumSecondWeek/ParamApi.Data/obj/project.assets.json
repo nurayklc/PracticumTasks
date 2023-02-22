@@ -2235,11 +2235,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Nuray\\MyProjects\\PracticumTasks\\ParamApi.Data\\ParamApi.Data.csproj",
+      "projectUniqueName": "E:\\Nuray\\MyProjects\\PracticumTasks\\PracticumSecondWeek\\ParamApi.Data\\ParamApi.Data.csproj",
       "projectName": "ParamApi.Data",
-      "projectPath": "E:\\Nuray\\MyProjects\\PracticumTasks\\ParamApi.Data\\ParamApi.Data.csproj",
+      "projectPath": "E:\\Nuray\\MyProjects\\PracticumTasks\\PracticumSecondWeek\\ParamApi.Data\\ParamApi.Data.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\Nuray\\MyProjects\\PracticumTasks\\ParamApi.Data\\obj\\",
+      "outputPath": "E:\\Nuray\\MyProjects\\PracticumTasks\\PracticumSecondWeek\\ParamApi.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -2267,8 +2267,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Nuray\\MyProjects\\PracticumTasks\\ParamApi.Base\\ParamApi.Base.csproj": {
-              "projectPath": "E:\\Nuray\\MyProjects\\PracticumTasks\\ParamApi.Base\\ParamApi.Base.csproj"
+            "E:\\Nuray\\MyProjects\\PracticumTasks\\PracticumSecondWeek\\ParamApi.Base\\ParamApi.Base.csproj": {
+              "projectPath": "E:\\Nuray\\MyProjects\\PracticumTasks\\PracticumSecondWeek\\ParamApi.Base\\ParamApi.Base.csproj"
             }
           }
         }

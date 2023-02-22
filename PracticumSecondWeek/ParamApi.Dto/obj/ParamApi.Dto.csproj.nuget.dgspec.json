@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Nuray\\MyProjects\\PracticumTasks\\ParamApi.Dto\\ParamApi.Dto.csproj": {}
+    "E:\\Nuray\\MyProjects\\PracticumTasks\\PracticumSecondWeek\\ParamApi.Dto\\ParamApi.Dto.csproj": {}
   },
   "projects": {
-    "E:\\Nuray\\MyProjects\\PracticumTasks\\ParamApi.Dto\\ParamApi.Dto.csproj": {
+    "E:\\Nuray\\MyProjects\\PracticumTasks\\PracticumSecondWeek\\ParamApi.Dto\\ParamApi.Dto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Nuray\\MyProjects\\PracticumTasks\\ParamApi.Dto\\ParamApi.Dto.csproj",
+        "projectUniqueName": "E:\\Nuray\\MyProjects\\PracticumTasks\\PracticumSecondWeek\\ParamApi.Dto\\ParamApi.Dto.csproj",
         "projectName": "ParamApi.Dto",
-        "projectPath": "E:\\Nuray\\MyProjects\\PracticumTasks\\ParamApi.Dto\\ParamApi.Dto.csproj",
+        "projectPath": "E:\\Nuray\\MyProjects\\PracticumTasks\\PracticumSecondWeek\\ParamApi.Dto\\ParamApi.Dto.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\Nuray\\MyProjects\\PracticumTasks\\ParamApi.Dto\\obj\\",
+        "outputPath": "E:\\Nuray\\MyProjects\\PracticumTasks\\PracticumSecondWeek\\ParamApi.Dto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

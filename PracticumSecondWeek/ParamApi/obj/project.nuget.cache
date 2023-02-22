@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qjlgzLy1Rb5eBz2o9c3x0qdyEJGmHcyT7gf6EgtFoyUmlin7V4o+iHCmvS9B83d3WxWIbRKLOImNurwfmg1mpA==",
+  "dgSpecHash": "McA6TrIXmDhPueDMIUoy5oNZk35xSf2p8OcMzr3h9a5AxToPdAGaFkgAJ4yTu6oXTu5vHNwELIeobkB2PEbhGA==",
   "success": true,
-  "projectFilePath": "E:\\Nuray\\MyProjects\\PracticumTasks\\ParamApi\\ParamApi.csproj",
+  "projectFilePath": "E:\\Nuray\\MyProjects\\PracticumTasks\\PracticumSecondWeek\\ParamApi\\ParamApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
