@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace ParamApi.Service.Abstract
 {
-    public interface IPersonService : IBaseService<PersonDto, Person>
+    public interface IAccountService : IBaseService<AccountDto,Account>
     {
     }
 }
