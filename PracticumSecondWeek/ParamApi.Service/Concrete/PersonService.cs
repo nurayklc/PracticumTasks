@@ -24,12 +24,6 @@ namespace ParamApi.Service.Concrete
         {
             _genericRepository = genericRepository;
         }
-        public async Task<BaseResponse<PersonDto>> InsertAsync(PersonDto person)
-        {
-            if (person == null)
-                return new BaseResponse<PersonDto>("Id is null");
 
-            return await base.AddAsync(person);
-        }
     }
 }
