@@ -16,10 +16,12 @@ namespace ParamApi.Data.UOW.Concrete
         private readonly AppDbContext _appDbContext;
         public bool IsDisposed { get; private set; }
         public IGenericRepository<Account> AccountRepository { get; private set; }
+        public IGenericRepository<Person> PersonRepository { get; private set; }
         public UnitOfWork(AppDbContext appDbContext)
         {
             _appDbContext = appDbContext;
             AccountRepository = new GenericRepository<Account>(appDbContext);
+            PersonRepository = new GenericRepository<Person>(appDbContext);
         }
 
         public async Task CompleteAsync()

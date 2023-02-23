@@ -32,6 +32,7 @@
 
 	<ItemGroup>
     <ProjectReference Include="..\ParamApi.Data\ParamApi.Data.csproj" />
+    <ProjectReference Include="..\ParamApi.Service\ParamApi.Service.csproj" />
   </ItemGroup>
 
 </Project>

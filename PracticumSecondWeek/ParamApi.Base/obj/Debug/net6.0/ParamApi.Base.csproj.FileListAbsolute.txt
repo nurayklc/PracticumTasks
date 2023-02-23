@@ -10,3 +10,15 @@ E:\Nuray\MyProjects\PracticumTasks\ParamApi.Base\obj\Debug\net6.0\ParamApi.Base.
 E:\Nuray\MyProjects\PracticumTasks\ParamApi.Base\obj\Debug\net6.0\refint\ParamApi.Base.dll
 E:\Nuray\MyProjects\PracticumTasks\ParamApi.Base\obj\Debug\net6.0\ParamApi.Base.pdb
 E:\Nuray\MyProjects\PracticumTasks\ParamApi.Base\obj\Debug\net6.0\ref\ParamApi.Base.dll
+E:\Nuray\MyProjects\PracticumTasks\PracticumSecondWeek\ParamApi.Base\bin\Debug\net6.0\ParamApi.Base.deps.json
+E:\Nuray\MyProjects\PracticumTasks\PracticumSecondWeek\ParamApi.Base\bin\Debug\net6.0\ParamApi.Base.dll
+E:\Nuray\MyProjects\PracticumTasks\PracticumSecondWeek\ParamApi.Base\bin\Debug\net6.0\ParamApi.Base.pdb
+E:\Nuray\MyProjects\PracticumTasks\PracticumSecondWeek\ParamApi.Base\obj\Debug\net6.0\ParamApi.Base.csproj.AssemblyReference.cache
+E:\Nuray\MyProjects\PracticumTasks\PracticumSecondWeek\ParamApi.Base\obj\Debug\net6.0\ParamApi.Base.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nuray\MyProjects\PracticumTasks\PracticumSecondWeek\ParamApi.Base\obj\Debug\net6.0\ParamApi.Base.AssemblyInfoInputs.cache
+E:\Nuray\MyProjects\PracticumTasks\PracticumSecondWeek\ParamApi.Base\obj\Debug\net6.0\ParamApi.Base.AssemblyInfo.cs
+E:\Nuray\MyProjects\PracticumTasks\PracticumSecondWeek\ParamApi.Base\obj\Debug\net6.0\ParamApi.Base.csproj.CoreCompileInputs.cache
+E:\Nuray\MyProjects\PracticumTasks\PracticumSecondWeek\ParamApi.Base\obj\Debug\net6.0\ParamApi.Base.dll
+E:\Nuray\MyProjects\PracticumTasks\PracticumSecondWeek\ParamApi.Base\obj\Debug\net6.0\refint\ParamApi.Base.dll
+E:\Nuray\MyProjects\PracticumTasks\PracticumSecondWeek\ParamApi.Base\obj\Debug\net6.0\ParamApi.Base.pdb
+E:\Nuray\MyProjects\PracticumTasks\PracticumSecondWeek\ParamApi.Base\obj\Debug\net6.0\ref\ParamApi.Base.dll

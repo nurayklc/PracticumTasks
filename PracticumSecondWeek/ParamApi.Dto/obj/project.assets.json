@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "ParamApi.Base/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ParamApi.Base.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ParamApi.Base.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ParamApi.Base/1.0.0": {
+      "type": "project",
+      "path": "../ParamApi.Base/ParamApi.Base.csproj",
+      "msbuildProject": "../ParamApi.Base/ParamApi.Base.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "ParamApi.Base >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Admin\\.nuget\\packages\\": {},
@@ -47,7 +66,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\Nuray\\MyProjects\\PracticumTasks\\PracticumSecondWeek\\ParamApi.Base\\ParamApi.Base.csproj": {
+              "projectPath": "E:\\Nuray\\MyProjects\\PracticumTasks\\PracticumSecondWeek\\ParamApi.Base\\ParamApi.Base.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

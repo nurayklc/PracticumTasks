@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "ParamApi.Dto/1.0.0": {
+        "dependencies": {
+          "ParamApi.Base": "1.0.0"
+        },
         "runtime": {
           "ParamApi.Dto.dll": {}
+        }
+      },
+      "ParamApi.Base/1.0.0": {
+        "runtime": {
+          "ParamApi.Base.dll": {}
         }
       }
     }
   },
   "libraries": {
     "ParamApi.Dto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ParamApi.Base/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
