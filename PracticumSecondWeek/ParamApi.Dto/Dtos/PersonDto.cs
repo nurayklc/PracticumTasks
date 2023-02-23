@@ -1,4 +1,5 @@
 ﻿using ParamApi.Base.Attribute;
+using ParamApi.Base.Dto;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
@@ -9,7 +10,7 @@ using System.Xml.Linq;
 
 namespace ParamApi.Dto.Dtos
 {
-    public class PersonDto
+    public class PersonDto : BaseDto
     {
 
         [Required]
